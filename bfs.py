@@ -1,3 +1,5 @@
+#  ACTIVIDAD: Breadth First Search - 9/11/2021
+
 from collections import defaultdict
 from queue import Queue
 
@@ -200,6 +202,6 @@ print("----------------------------------------------------")
 g.BFS(0)
 
 
-# DISCLAIMER. Código basado en la versiones disponibles en:
+# DISCLAIMER. Código basado en las versiones disponibles en:
 # https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
 # https://www.askpython.com/python/examples/distance-between-nodes-unweighted-graph
